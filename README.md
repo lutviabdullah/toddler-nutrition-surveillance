@@ -1,20 +1,20 @@
-# toddler-nutrition-surveillance
-
 # Nutritional Surveillance & Faltering Growth Analysis (June - July 2026)
 
-**Live Interactive Dashboard:** (https://public.tableau.com/app/profile/lutvi.abdullah/viz/PemantauanStatusBalita-July2026/Dashboard1) - (https://public.tableau.com/app/profile/lutvi.abdullah/viz/PemantauanStatusGiziBalita-June2026/Dashboard1)
+**Live Interactive Dashboards:** 
+* [📊 View July 2026 Dashboard](https://public.tableau.com/app/profile/lutvi.abdullah/viz/PemantauanStatusBalita-July2026/Dashboard1)
+* [📉 View June 2026 Dashboard](https://public.tableau.com/app/profile/lutvi.abdullah/viz/PemantauanStatusGiziBalita-June2026/Dashboard1)
 
 ## Executive Summary
 This project analyzes the nutritional status of toddlers across two months of surveillance (June and July) to monitor stunting indicators (TB/U) and acute malnutrition (BB/TB) based on WHO Z-Score standards. 
 
 While short-term localized interventions showed positive results in monthly weight gain, the visualized data uncovers a critical, systemic public health crisis: severe **faltering growth** as children transition from infancy into their preschool years.
 
-![Dashboard Preview](dashboard_july.png) *https://public.tableau.com/app/profile/lutvi.abdullah/viz/PemantauanStatusBalita-July2026/Dashboard1*
+![Dashboard Preview](dashboard_july.png)
 
 ## Key Public Health Insights
 
 ### 1. The Faltering Growth Crisis (The Structural Gap)
-By grouping continuous age data into targeted epidemiological cohorts, the dashboard reveals a alarming structural decline. Infants (0-11 months) maintain a median Z-score close to the WHO normal baseline. However, nutritional status drops sharply during the weaning phase (12-23 months) and continues to plummet, hitting an absolute low in the **48-59 months** cohort.
+By grouping continuous age data into targeted epidemiological cohorts, the dashboard reveals an alarming structural decline. Infants (0-11 months) maintain a median Z-score close to the WHO normal baseline. However, nutritional status drops sharply during the weaning phase (12-23 months) and continues to plummet, hitting an absolute low in the **48-59 months** cohort.
 * **Policy Implication:** Current nutritional safety nets are failing older toddlers. Health interventions and maternal education must aggressively target the 12-23 month post-weaning window to prevent this severe preschool nutritional deficit before it becomes irreversible stunting.
 
 ### 2. Short-Term Intervention Success (June vs. July)
