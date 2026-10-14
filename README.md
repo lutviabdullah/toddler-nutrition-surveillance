@@ -1,4 +1,4 @@
-# Nutritional Surveillance & Faltering Growth Analysis (June - July 2026)
+# Nutritional Surveillance & Faltering Growth Analysis (May - July 2026)
 
 **Live Interactive Dashboards:** 
 * [📊 View July 2026 Dashboard](https://public.tableau.com/app/profile/lutvi.abdullah/viz/PemantauanStatusBalita-July2026/Dashboard1)
@@ -10,7 +10,7 @@ This project analyzes the nutritional status of toddlers across two months of su
 
 While short-term localized interventions showed positive results in monthly weight gain, the visualized data uncovers a critical, systemic public health crisis: severe **faltering growth** as children transition from infancy into their preschool years.
 
-![Dashboard Preview](dashboard_july.png)
+![Dashboard Preview](https://public.tableau.com/app/profile/lutvi.abdullah/viz/PemantauanStatusBalita-May2026/Dashboard1)
 
 ## Key Public Health Insights
 
