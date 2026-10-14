@@ -35,5 +35,5 @@ Analyzing the month-over-month weight gain data (Naik Berat Badan) reveals the i
 
 ## About the Author
 **Lutvi Abdullah**
-*Circular Strategist | Public Health Nutrition - Data Analyst*
+*Circular Strategist | Public Health Nutrition - Data Analyst* <br>
 Dedicated to bridging advanced data analytics with public health policy, sustainable food systems, and targeted nutritional interventions.
